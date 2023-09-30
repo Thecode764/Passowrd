@@ -11,7 +11,7 @@ pip install colorama
 ## Step 1: Add Password To .password.txt
 ```
 cd Password
-nano .password.txt
+code .password.txt
 ```
 ## Step 2: Run App
 ```
@@ -21,7 +21,7 @@ python3 saver.py
 ## Add New Password
 ```
 cd Passowrd
-nano .password.txt
+code .password.txt
 ```
 
 
