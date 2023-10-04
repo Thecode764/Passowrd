@@ -20,7 +20,7 @@ python3 saver.py
 ```
 ## Add New Password
 ```
-cd Passowrd
+cd Password
 code .password.txt
 ```
 
